@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Vikas Chauhan<br>BCA student last years<br>Data Scientist In Future<br>Python master<br>
+My Name is Vikas Chauhan<br>BCA Student-Last Years<br>Data Scientist In Future<br>
 
 
 ## 🌐 Socials:
